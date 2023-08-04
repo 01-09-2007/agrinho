@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background-color: #ffffff;
+    color: #000000;
+    padding: 24px 0;
+    text-align: center;
+    font-size: 24px;
+
+}
+
+.imagem-tema{
+    width: 35%;
+    padding: 80px;
+    margin: 25px;
+    
+}
+
+.tema{
+    background-image: linear-gradient(#d3ffbf,#72ff20c5);
+    color: #000000;
+}
+
+.tema-titulo{
+    font-size: 30px;
+    padding: 24px 0;
+    padding-left: 25px;
+ }
+
+.tema-texto{
+    font-size: 23px;
+    padding-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align: left;
+    float: left;
+}
+
+.texto-final{
+   font-size: 23px;
+    padding-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align: left;
+    float: left;
+    margin: 50px;
+}
+
+.topicos-texto{
+    font-size: 28px;
+    padding: 24px 0;
+    padding-left: 25px;
+    font-weight: bolder;
+
+ }
+
+ .conclusao-texto{
+    font-size: 20px;
+    padding: 24px 0;
+ }
+
+ .tema-e-texto{
+    background-image: linear-gradient(#d3ffbf);
+    color: #000000;
+ }
+
+ .hyperlink-texto{
+    font-size: 20px;
+    padding-left: 25px;
+ }
+
+ .imagem-tema{
+    width: 10px;
+    height: 10px;
+ }
+
+ .primeira-imagem{
+   padding-left: 25px;
+   height: 220px;
+}
+
+.segunda-imagem{
+   padding-left: 25px;
+   height: 200px;
+}
+
+
+.terceira-imagem{
+   padding-left: 25px;
+   height: 235px;
+}
+
+.quarta-imagem{
+   padding-left: 25px;
+   height: 235px;
+}
